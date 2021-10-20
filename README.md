@@ -1,3 +1,4 @@
+# Cloud Migration
 # Prepare your AWS Environment
 Before you can use a migration tool to move servers to the cloud, you’ll need to have the permissions to do so. To do this in AWS, you’ll need to setup a user account with programmatic access and a policy attached to that user that allows it to do the migrations. To do this from the AWS console, login to your AWS Account and go the the Identity and Access Management service (IAM).
 
